@@ -26,7 +26,7 @@ public class firstTest {
 			}
 			else {
 			
-				numMap.put(c, 1);
+				numMap.put(c, 2);
 			}
 			
 			
